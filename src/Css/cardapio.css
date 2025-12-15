@@ -1,0 +1,27 @@
+.containerCardapio {
+  padding: 20px;
+  background-color: #ccdabe;
+}
+
+.tituloCardapio {
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #285528;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.containerCardsCardapio {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.cardCardapio {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px auto;
+  width: 300px;
+  text-align: center;
+}

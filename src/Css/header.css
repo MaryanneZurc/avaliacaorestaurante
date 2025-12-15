@@ -1,0 +1,22 @@
+.containerHeader {
+  background-color: #285528;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+}
+.tituloHeader h1 {
+  margin: 0;
+  font-size: 2.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.menuHeader {
+  margin-top: 40px;
+}
+.menu {
+  margin: 30px;
+  font-size: 1.2em;
+  color: white;
+  text-decoration: none;
+  justify-content: space-between;
+}
