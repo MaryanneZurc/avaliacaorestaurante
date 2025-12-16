@@ -1,0 +1,25 @@
+.containerLocalizacao {
+  padding: 20px;
+  background-color: #ccdabe;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tituloLocalizacao {
+  font-size: 2em;
+  color: #285528;
+  margin-bottom: 20px;
+}
+.primeiroPLocalizacao {
+  font-size: 1em;
+  color: #555555;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+.segundoPLocalizacao {
+  font-size: 1.1em;
+  color: #285528;
+  line-height: 1.5;
+  font-weight: bold;
+}

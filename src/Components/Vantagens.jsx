@@ -2,7 +2,7 @@ import "/src/CSS/vantagens.css";
 
 function Vantagens() {
   return (
-    <div className="containerVantagens">
+    <div className="containerVantagens" id="vantagens">
       <h1 className="tituloVantagens">
         Por que escolher o Restaurante Popular Saudável?
       </h1>
