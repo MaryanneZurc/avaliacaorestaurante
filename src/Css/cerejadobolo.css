@@ -1,0 +1,15 @@
+.containerCerejadobolo {
+  position: relative;
+  margin-left: auto; 
+  display: flex;
+  background-color: #add188;
+  border-radius: 20px;
+}
+
+.botaoprincipal {
+    background-color: #add188;
+}
+
+.opcoes {
+ text-decoration-style: solid;
+}

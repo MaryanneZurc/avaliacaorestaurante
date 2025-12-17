@@ -13,9 +13,8 @@
   margin-bottom: 30px;
 }
 .containerCardCardapio {
-display: flex;
+  display: flex;
   justify-content: center;
-  flex-wrap: wrap;
  
 }
 .cardCardapio {

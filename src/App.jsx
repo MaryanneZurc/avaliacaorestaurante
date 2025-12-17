@@ -7,11 +7,13 @@ import Sobre from "./Components/Sobre";
 import Localizacao from "./Components/Localizacao";
 import Contato from "./Components/Contato";
 import Footer from "./Components/Footer";
+import Cerejadobolo from "./Components/Cerejadobolo";
 
 function App() {
   return (
     <div>
-      <Header />
+      <Header /> 
+      <Cerejadobolo/>
       <Inicio />
       <Vantagens />
       <Cardapio />
@@ -19,7 +21,7 @@ function App() {
       <Localizacao />
       <Contato />
       <Footer />
-    </div>
+      </div>
   );
 }
 
