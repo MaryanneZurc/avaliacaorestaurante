@@ -12,16 +12,16 @@ import Cerejadobolo from "./Components/Cerejadobolo";
 function App() {
   return (
     <div>
-      <Header /> 
-      <Cerejadobolo/>
+      <Header />
       <Inicio />
       <Vantagens />
       <Cardapio />
       <Sobre />
       <Localizacao />
       <Contato />
+      <Cerejadobolo />
       <Footer />
-      </div>
+    </div>
   );
 }
 

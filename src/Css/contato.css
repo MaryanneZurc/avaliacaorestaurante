@@ -1,50 +1,52 @@
 .containerContato {
-   padding: 20px;
-   background-color: #f9f9f9;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .tituloContato {
-    font-size: 2em;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #285528;
-    text-align: center;
-    margin-bottom: 30px;
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #285528;
+  text-align: center;
+  margin-bottom: 30px;
 }
 .formContato {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-input{
-    width: 50%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+input {
+  width: 50%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
-label{
-    font-family: Arial, Helvetica, sans-serif;
-    color: #555555;
-    margin-top: 10px;
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #555555;
+  margin-top: 10px;
 }
-textarea{
-    width: 50%;
-    height: 150px;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    resize: vertical;
+textarea {
+  width: 50%;
+  height: 150px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
 }
-button{
-    width: 50%;
-    padding: 10px;
-    background-color:#add188;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    font-weight: bold;
-}   
+button {
+  width: 10%;
+  height: 50px;
+  padding: 10px;
+  background-color: #285528;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-weight: bold;
+}

@@ -15,32 +15,32 @@
 .containerCardCardapio {
   display: flex;
   justify-content: center;
- 
 }
 .cardCardapio {
   background-color: #f9f9f9;
   border-radius: 10px;
   /* padding: 20px; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin: 10px auto;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
   width: 300px;
   height: 400px;
   text-align: center;
 }
-.tituloCardCardapio{
+.tituloCardCardapio {
   background-color: #add188;
   height: 200px;
   align-content: center;
   /* border-radius: 10px; */
   font-family: Arial, Helvetica, sans-serif;
-  
 }
-.tituloCardCardapio h1{
- font-weight: lighter;
-  font-size: 25px; 
+.tituloCardCardapio h1 {
+  font-weight: lighter;
+  font-size: 25px;
   color: #285528;
 }
-.botaoCardapio{
+.botaoCardapio {
   width: 95%;
   height: 50px;
   margin-top: 20px;
@@ -51,24 +51,21 @@
   font-size: 17px;
   font-weight: bold;
 }
-.descricaoCardapio{
+.descricaoCardapio {
   font-family: Arial, Helvetica, sans-serif;
 }
-.nomeCardapio{
+.nomeCardapio {
   font-weight: lighter;
   color: #285528;
 }
-.paragrafoCardapio{
+.paragrafoCardapio {
   font-size: 15px;
 }
-.precoCardapio{
+.precoCardapio {
   color: rgb(226, 5, 5);
   font-weight: bold;
   font-size: 17px;
-  
 }
-.precoBotao{
+.precoBotao {
   margin-top: 20px;
 }
-
-
